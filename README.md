@@ -1,4 +1,4 @@
-# Node + React Fullstack E-Commerce Application
+# Waves(MERN Guitar E-Commerce Site)
 
 * ### Front-End Technologies 
   - React
