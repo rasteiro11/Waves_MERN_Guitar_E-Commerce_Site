@@ -1,4 +1,4 @@
-# Waves(MERN Guitar E-Commerce Site)
+# Waves (MERN Guitar E-Commerce Site)
 
 * ### Front-End Technologies 
   - React
