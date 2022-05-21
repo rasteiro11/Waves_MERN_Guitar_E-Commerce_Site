@@ -1,4 +1,5 @@
 # Waves (MERN Guitar E-Commerce Site)
+# Visit the demo **https://waves-clone-03.herokuapp.com/**
 
 * ### Front-End Technologies 
   - React
